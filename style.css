@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+    color: white;
+}
+#dough{
+    width: 300px;
+    height: 200px;
+}
+
+.menu-pic{
+    width: 100px;
+    height: 100px;
+}
+
+
+.navbar ul{
+    height: 60px;
+    background-color: black;
+    color: white;
+     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+a{
+    text-decoration: none;
+     color: white;
+}
+
+#banner{
+    height: 120vh;
+    width: 100%;
+    background-image: url("pizza.jpeg");
+    background-size: cover;
+    opacity: 0.7;
+    text-align: center;
+    
+
+}
+.text{
+    padding-top: 90px;
+    padding-right: 50px;
+    opacity: 1.0;
+}
+#first{
+    font-size: 150px;
+}
+hr{
+    color: #B62828;
+    width: 50%;
+}
+
+#about{
+    height: 50vh;
+    margin: 10px;
+   
+}
+
+#aboutline{
+    width: 30%;
+}
+h2{
+    text-align: center;
+}
+#abb{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.textarea{
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+}
+.textline{
+    width: 300px;
+}
+#menu{
+    height: 50vh;
+    margin-top: 8%; 
+}
+.menu-p{
+
+     margin: 60px;
+     height: 10%;
+     text-align: left;
+}
+.menu1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+h6{
+    color: #F2C94C;
+}
+#carosuel{
+    height: 50vh;
+    margin-top: 10%;
+}
+#gallery{
+    height: 50vh;
+    margin-top: 10%;
+}
+#find-us{
+    height: 50vh;
+    margin-top: 10%; 
+}
+.locate{
+    margin: 50px;
+    padding: 10px;
+    display: flex;
+}
+#footer{
+    
+    margin-top: 15%;  
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
